@@ -51,7 +51,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by [Spring Boot Documentation](https://spring.io/projects/spring-boot).
 ```
 
-
-
-3. **Customize**: Replace `yourusername` and `your-repository-name` with your actual GitHub username and repository name. Adjust the project description, features, and other details as necessary.
-
